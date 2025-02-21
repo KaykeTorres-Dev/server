@@ -1,6 +1,6 @@
 # Server SistemaVisao
 
-Este projeto foi realizado utilizando Fastify, Prisma e Typescript.
+Este projeto foi realizado utilizando Fastify 4.28.1, Prisma 5.17.0 e Typescript.
 
 ## Requisitos:
 * <a href="https://code.visualstudio.com/">Visual Studio Code</a>;
